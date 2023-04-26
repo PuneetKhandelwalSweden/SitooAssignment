@@ -7,7 +7,3 @@ appropriate status codes.
 
 The application will run on port 8080. Before running the application please be sure to change the mysql data source properties in the application.properties
 
-You can run following commands to download the dependencies:
-#### mvn clean install
-#### mvn clean compile
-#### mvn clean package
